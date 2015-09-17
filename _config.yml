@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Will Doyle
 url:                 http://wdoyle42.github.io
 paginate:            1
-baseurl:             ""
+baseurl:             http://wdoyle42.github.io
 
 # Assets
 #
@@ -27,3 +27,7 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/wdoyle42
+
+# Navigation
+pages_list:       
+  About: '/about'
