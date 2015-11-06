@@ -4,7 +4,6 @@ title: Notes on Performance Funding
 layout: post
 ---
 
-============================
 ASHE Session 11/6/2015: 
 
 Three things that need to happen in the field:
@@ -21,9 +20,7 @@ Improved Analysis
 
 This subject: always difference-in-differences analysis for this kind of policy evaluation.
 
-Difference in differences has kind of a checkered history in policy evaluation. It's been used in some of the most widely cited studies that have estbalished thatsmall changes in the mimnimum wage law actually increase employment. 
-
-Diff in diff has been used in studies that show that ax gun control laws lead to more deaths, and many other solid policy evaluations. 
+Difference in differences has kind of a checkered history in policy evaluation. It's been used in some of the most widely cited studies that have estbalished that small changes in the mimnimum wage law actually increase employment. 
 
 But it's also been used in many widely discredited studies. When using this approach, one must be cautious and think carefully about the underlying policy design.
 
