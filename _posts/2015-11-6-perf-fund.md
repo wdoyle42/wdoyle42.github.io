@@ -8,11 +8,11 @@ ASHE Session 11/6/2015:
 
 Three things that need to happen in the study of performance funding. 
 
-Improved Analysis (and I don't mean more complex)
+* Improved analysis (and I don't mean more complex).
 
-Better understanding of the micro-level processes from both a theoretical and an empirical point of view.
+* Better understanding of the micro-level processes from both a theoretical and an empirical point of view.
 
-Incorporating more of the lessons from other fields, particularly K-12. 
+* Incorporating more of the lessons from other fields, particularly K-12. 
 
 
 Improved Analysis
