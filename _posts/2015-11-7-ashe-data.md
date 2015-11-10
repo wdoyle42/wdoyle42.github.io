@@ -1,5 +1,8 @@
-Comments on Data Science in Higher Education
-============================================
+---
+title: Comments on Data Science in Higher Education 
+
+layout: post 
+---
 
 What is Data Science? Some people say that Data Science is statistics, but done on a Mac. I do think that Data Science as a practice enacts several principles that we in higher education research should do much more to emulate. Today I'll emphasize three:
 
