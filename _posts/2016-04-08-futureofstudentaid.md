@@ -10,7 +10,7 @@ Resolved: "Any additional federal dollars for higher education should go directl
 
 My notes, arguing the affirmative: 
 
-Assumptions That Underlie Our Current System
+Assumptions that underlie our current system
 -------
 
 Our national system for making college affordable is based on a set of assumptions that no longer hold. In the early 1970s, when the system was created, the following set of assumptions formed the basis for our national system:
