@@ -27,5 +27,5 @@ github:
 
 # Gems
 gems:
-  - jekyll-paginate
-  - jekyll-gist
+#  - jekyll-paginate
+#  - jekyll-gist
