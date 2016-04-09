@@ -21,10 +21,10 @@ States and institutions would work together to keep tuition at public institutio
 
 State financial aid would be need-based, and focused in large part on encouraging student choice.
 
-Instituions (public and private), if they charged a lot more than the financial aid programs covered, would make sure that any student they admitted could afford to attend-- they would practice need-blind admissions and need-based financial aid.
+Institutions (public and private), if they charged a lot more than the financial aid programs covered, would make sure that any student they admitted could afford to attend-- they would practice need-blind admissions and need-based financial aid.
 
 
-While the federal government has kept its part of the bargain, states and institutions havd drifted away from their original commitments. 
+While the federal government has kept its part of the bargain, states and institutions have drifted away from their original commitments. 
 
 Federal government
 -------------------
@@ -33,22 +33,23 @@ The federal government has increased its commitment to need-based financial aid 
 
 States, institutions, and low tuition
 -------------------
-As states have been spending less on higher education tuition has gone up. Tuition at public four-year instituions increased by [80 percent from 2000-2015 in inflation adjusted terms](http://trends.collegeboard.org/college-pricing/figures-tables/tuition-and-fees-and-room-and-board-over-time-1975-76-2015-16-selected-years). 
+As states have been spending less on higher education tuition has gone up. Tuition at public four-year institutions increased by [80 percent from 2000-2015 in inflation adjusted terms](http://trends.collegeboard.org/college-pricing/figures-tables/tuition-and-fees-and-room-and-board-over-time-1975-76-2015-16-selected-years). 
 
 
 State financial aid
 ---------------------
-These increase in tuition might not have been painful for low-income students, if they had been covered by increases in state student financial aid. State financial aid for low income students at public institutions didn't budge in inflation adjusted terms between 1996 and 2012. In contrast, state financial aid for high income students increased more than 450 percent in inflation adjusted terms from 1996 to its high point. 
+These increases in tuition might not have been painful for low-income students, if they had been covered by increases in state student financial aid. State financial aid for low-income students at public institutions didn't budge in inflation adjusted terms between 1996 and 2012. In contrast, state financial aid for high income students increased more than 450 percent in inflation adjusted terms from 1996 to its high point. 
 
 Institutional aid
 -------
-Institutional aid is the largest form of financial aid and the last resort for students to attend. For many institutions, there has been a profound shift in [how they award financial aid](https://www.newamerica.org/education-policy/undermining-pell-volume-iii/). Again looking at data from the National Postsecondary Student Aid Survey and focusing on private institutions, institutional aid for low-income students at private institutions did increase from 1996 to 2012, from $3,000 to $7,700, a 157 percent increase, for which the institutions deserve credit. Average aid for high income students at these same institutions increased from $1,950 to $6,400, a 230 percent increase.
+Institutional aid is the largest form of financial aid and the last resort for students to attend. For many institutions, there has been a profound shift in [how they award financial aid](https://www.newamerica.org/education-policy/undermining-pell-volume-iii/). Again looking at data from the National Postsecondary Student Aid Survey and focusing on private institutions, institutional aid for low-income students at private institutions did increase from 1996 to 2012, from $3,000 to $7,700, a 157 percent increase, for which the institutions deserve credit. Average aid for high-income students at these same institutions increased from $1,950 to $6,400, a 230 percent increase.
 
 Drifting away
 ---------
 
-The data unambiguously show that states and instituions are drifting from their original commitments, while the federal government has kept up its part of the bargain.
+The data unambiguously show that states and institutions are drifting from their original commitments, while the federal government has kept up its part of the bargain.
 
 I don't believe that states and institutions will return to their commitments until they are given very incentive to do so. In particular, I am convinced that federal financial aid needs to be restructured so that the states and institutions must prioritize affordability (and therefore access) for low-income students, ideas that I explore in more detail [here](https://www.ced.org/reports/single/a-new-partnership-the-road-to-reshaping-federal-state-financial-aid). 
+
 
 
