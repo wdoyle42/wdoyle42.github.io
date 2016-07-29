@@ -1,7 +1,7 @@
 ---
-title: Notes on Performance Funding
+title: Notes on Performance Funding 
 
-layout: post
+layout: post 
 ---
 
 ASHE Session 11/6/2015: 
