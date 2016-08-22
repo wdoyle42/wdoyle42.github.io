@@ -9,7 +9,7 @@ I'm looking forward to our class this semester in Data Science. This will be a c
 
 Before class on Wednesday, I have a few things I'd like for you to do.
 
-1. Check out the syllabus: this is still under construction (and will continue to be throughout the semester) but it gives you a sense of what we'll be up to. Syllabus is here: https://github.com/hoddatascifall16/central/blob/master/syllabus.md
+1. Check out the syllabus: this is still under construction (and will continue to be throughout the semester) but it gives you a sense of what we'll be up to. Syllabus is here:[](https://github.com/hoddatascifall16/central/blob/master/syllabus.md)
 
 2. Download the software we'll need for class. All of the software is free. 
 
